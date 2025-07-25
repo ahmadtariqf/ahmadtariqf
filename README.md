@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmad T. Alflahat
+# 👋 Hi, I'm Ahmad Alflahat
 
 🎓 **Data Scientist | AI Engineer | PhD Candidate (Soon?)**  
 📍 Based in Jordan | 🖥 Passionate about AI, Medical Imaging, and Real-World Applications  
@@ -60,7 +60,6 @@ My current focus is **AI for medical applications**, especially image segmentati
 - **Email:** ahmadtariqf@gmail.com
 - **Phone:** +962778740480
 - **Resume:** [ahmadtariqf.github.io/resume/](https://ahmadtariqf.github.io/)
-- **LinkedIn:** [Add your LinkedIn link!]
 - **Personal Website/Portfolio:** [ahmadtariqf.github.io/resume/](https://ahmadtariqf.github.io/)
 
 ## 📊 GitHub Stats
