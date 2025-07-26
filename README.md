@@ -57,8 +57,7 @@ My current focus is **AI for medical applications**, especially image segmentati
 ## 📫 Connect with Me
 - **Email:** ahmadtariqf@gmail.com
 - **Phone:** +962778740480
-- **Resume:** [ahmadtariqf.github.io/resume/](https://ahmadtariqf.github.io/)
-- **Personal Website/Portfolio:** [ahmadtariqf.github.io/resume/](https://ahmadtariqf.github.io/)
+- **Resume:** [HERE](https://ahmadtariqf.github.io/)
 
 ## 📊 GitHub Stats
 ![Ahmad Tariq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadtariqf&show_icons=true&theme=radical)
