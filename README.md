@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Ahmad Alflahat
-
 🎓 **Data Scientist | AI Engineer | PhD Candidate (Soon?)**  
 📍 Based in Jordan | 🖥 Passionate about AI, Medical Imaging, and Real-World Applications  
 
